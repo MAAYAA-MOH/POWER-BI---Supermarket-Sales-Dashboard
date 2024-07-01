@@ -2,6 +2,8 @@
 
 ![Dashboard Image](path_to_dashboard_screenshot)- (C:\Users\angel\OneDrive\Pictures\Screenshots\Screenshot 2024-07-01 054854.png) *(Add a screenshot of your dashboard here)*
 
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/MAAYAA-MOH/POWER-BI---Supermarket-Sales-Dashboard/blob/main/Screenshot%202024-07-01%20054854.png))
+
 ## ⭐ Introduction
 
 Welcome to the Power BI Supermarket Sales Dashboard project! This project demonstrates my expertise in leveraging Power BI for comprehensive data analysis and visualization. The goal is to transform raw sales data into actionable insights through a well-structured and interactive dashboard. 
