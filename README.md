@@ -2,7 +2,7 @@
 
 ![Dashboard Image](path_to_dashboard_screenshot)- (C:\Users\angel\OneDrive\Pictures\Screenshots\Screenshot 2024-07-01 054854.png) *(Add a screenshot of your dashboard here)*
 
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/MAAYAA-MOH/POWER-BI---Supermarket-Sales-Dashboard/blob/main/Screenshot%202024-07-01%20054854.png))
+![Dashboard Screenshot]([images/dashboard.png](Screenshot 2024-07-01 054854.png))
 
 ## ⭐ Introduction
 
