@@ -131,6 +131,13 @@ This project provided significant experience in:
 
 *Thank you for exploring this project. For any questions or further information, feel free to reach out.*
 
+**Contribution**
+Contributions to this project are welcome! If you have suggestions for improvements or additional questions, please fork the repository and submit a pull request.
+
+**License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
 **Contact Information:**
 
 - **Email**: angel.purnimatripathi@gmail.com
