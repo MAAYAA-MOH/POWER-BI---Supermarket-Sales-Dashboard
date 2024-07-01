@@ -1,13 +1,11 @@
 # 🛒 Power BI Supermarket Sales Dashboard Project
 
+
 ![Supermarket Sales Dashboard](https://github.com/MAAYAA-MOH/POWER-BI---Supermarket-Sales-Dashboard/blob/main/Screenshot%202024-07-01%20054854.png)
 
-![Dashboard Image](path_to_dashboard_screenshot)- (C:\Users\angel\OneDrive\Pictures\Screenshots\Screenshot 2024-07-01 054854.png) *(Add a screenshot of your dashboard here)*
+AND 
 
-![Dashboard Screenshot]([images/dashboard.png](Screenshot 2024-07-01 054854.png))
-![Dashboard Screenshot]([images/dashboard.png](POWER-BI---Supermarket-Sales-Dashboard/Screenshot 2024-07-01 054854.png)
-https://github.com/MAAYAA-MOH/POWER-BI---Supermarket-Sales-Dashboard/blob/db119074cc93133e9adbdf754319c7a550d618cf/Screenshot%202024-07-01%20054854.png
-Screenshot 2024-07-01 054854.png
+![Super Store Sales Forecast](https://github.com/MAAYAA-MOH/POWER-BI---Supermarket-Sales-Dashboard/blob/main/Screenshot%202024-07-01%20054937.png)
 
 ## ⭐ Introduction
 
